@@ -1000,7 +1000,7 @@ body {
     position: relative;
 }
 
-.reviews__tab.active:first-child::before {
+.reviews__tab.activee:first-child::before {
     content: "";
     background-color: #f6f9f3;
     width: 100%;
@@ -1010,7 +1010,7 @@ body {
     top: 0;
 }
 
-.reviews__tab.active:last-child::after {
+.reviews__tab.activee:last-child::after {
     content: "";
     background-color: #f6f9f3;
     width: 100%;
@@ -1020,7 +1020,7 @@ body {
     top: 0;
 }
 
-.reviews__tab.active {
+.reviews__tab.activee {
     background-color: #f6f9f3;
     color: #7eb152;
 }
